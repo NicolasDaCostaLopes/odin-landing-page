@@ -123,3 +123,37 @@ body{
     font-weight: bold;
     color: #1F2937;
 }
+
+/* Action */
+.container-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 130px;
+    margin: 80px 20%;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+.item-action{
+    margin-right: auto;
+}
+.item-action > h3{
+    font-size: 24px;
+    color: #f9faf8;
+    margin: 0;
+}
+.item-action > p{
+    font-size: 16px;
+    color: #E5E7EB;
+    margin: 0;
+}
+.container-action > button{
+    border: none;
+    color: white;
+    background-color: #3882F6;
+    font-size: 16px;
+    font-weight: 600;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 7px 30px;
+}
