@@ -157,3 +157,13 @@ body{
     border-radius: 8px;
     padding: 7px 30px;
 }
+
+/* Footer */
+.container-footer{
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 32px 0;
+    color: #E5E7EB;
+    font-size: 16px;
+}
